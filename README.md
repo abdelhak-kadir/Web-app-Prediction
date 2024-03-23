@@ -1,5 +1,5 @@
 # Description 
-his application integrates two prediction models based on the Iris and Titanic datasets.
+This application integrates two prediction models based on the Iris and Titanic datasets.
 
 The first model uses the Iris dataset to predict the class of iris plants based on their sepal and petal dimensions. Users can input the dimensions of iris flowers into the application, and the model will provide the corresponding class.
 
