@@ -6,7 +6,7 @@ To run the project, follow these steps:
 * Clone the Repository:
     - `https://github.com/abdelhak-kadir/Web-app-Prediction.git `
 
-    - `cd Flask_ML `
+    - `cd Web-app-Prediction `
 * Set Up Virtual Environment :
     - `python3 -m venv venv`
 
