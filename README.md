@@ -12,12 +12,10 @@ To run the project, follow these steps:
     - `pip install upgrade`
 * install `python 3.11`
 * Clone the Repository:
-    - `mkdir Web-app-Prediction `
-    - `cd Web-app-Prediction `
     - `git clone https://github.com/abdelhak-kadir/Web-app-Prediction.git `
+    -  `cd Web-app-Prediction `
 * Set Up Virtual Environment :
     - `python3 -m venv venv`
-
     - `source venv/bin/activate`
 * Install Dependencies:
     - ` pip install -r requirement.txt`
